@@ -14,28 +14,6 @@ Welcome to my GitHub! I'm an AI enthusiast and creator of **Neruramind AI**, a p
 
 ---
 
-## 🧰 Tech Stack
-
-**Languages:**  
-Python • JavaScript • HTML/CSS
-
-**AI/ML:**  
-PyTorch • Hugging Face • Stable Diffusion • OpenCV • Whisper
-
-**Web:**  
-Gradio • Streamlit • React • FastAPI
-
-**Tools:**  
-Git • VS Code • Docker • Linux • Figma
-
----
-
-## 🌐 Featured Project
-
-### 🎨 [Neruramind AI](https://github.com/prithvi429/neruramind-ai)  
-_Transform your photos into Studio Ghibli-style artwork using AI_
-
----
 
 ## 📫 Let's Connect
 
