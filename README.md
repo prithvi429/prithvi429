@@ -18,7 +18,8 @@ Welcome to my GitHub! I'm an AI enthusiast and creator of **Neruramind AI**, a p
 ## 📫 Let's Connect
 
 - 📧 pruthviraj@neruramind.ai  
-- 💼 [LinkedIn](https://www.linkedin.com) *(Add your real link)*  
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rathod-pruthviraj/))
+- 📸 [Instagram](https://www.instagram.com/pruthvi__429/?hl=en) 
 - 🌐 [neruramind.ai](https://neruramind.ai) *(Coming soon)*  
 
 ---
