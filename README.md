@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pruthvi__429/?next=%2F&hl=en) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathod-pruthviraj/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrithviRathod19) 
-[![NeuraMind.AI](https://img.shields.io/badge/NeuraMind.AI-Coming%20Soon-blue?logo=google-chrome&logoColor=white)](https://prithvi429.github.io/NeuraMind.AI/) 
+[![NeuraMind.AI](https://img.shields.io/badge/NeuraMind.AI-Coming%20Soon-blue?logo=google-chrome&logoColor=white)](https://prithvi429.github.io/NeuraMind.AI/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prithvirathod29884@gmail.com)
 
 # 💻 Tech Stack:
