@@ -1,7 +1,21 @@
 
 
 # 💫 About Me:
-🚀 About Me<br>🤖 AI Developer | Artist at heart<br>💡 I love working on creative, visual, and storytelling-based tech<br>🌱 Currently learning advanced multi-agent systems and generative modeling<br>🛠️ Always experimenting with new tools like ControlNet, CLIP, LoRA<br>
+🚀 About Me<br>
+🤖 AI / ML Engineer | Generative AI & Agentic Systems Enthusiast<br>
+🎨 Creative Technologist with an Artist’s Mindset<br>
+💡 Passionate about creative, visual, and storytelling-driven AI solutions<br>
+🌱 Currently learning advanced multi-agent systems, RAG, and generative modeling<br>
+🛠️ Actively experimenting with ControlNet, CLIP, LoRA, and diffusion-based workflows<br>
+<br>
+I am an AI developer focused on building intelligent, creative, and production-ready systems.<br>
+My work centers on Generative AI, multi-agent architectures, and applied machine learning,<br>
+where I combine strong technical foundations with storytelling and visual thinking.<br>
+<br>
+I actively explore agentic AI workflows, RAG pipelines, and generative models, transforming<br>
+complex AI concepts into practical, real-world solutions. I have hands-on experience across<br>
+cloud platforms including AWS, Azure, and GCP, along with modern ML frameworks, and I<br>
+continuously experiment with emerging tools across the AI ecosystem.<br>
 
 
 ## 🌐 Socials:
